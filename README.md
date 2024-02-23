@@ -1,5 +1,6 @@
 <h2 align="left">hey there 👋, welcome to my profile</h2>
 
+
 ###
 
 <div align="center">
@@ -78,6 +79,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SarahPri/SarahPri/output/snake.svg" alt="Snake animation" />
 
 ###
