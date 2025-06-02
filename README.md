@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://github.com/SarahPri/SarahPri/blob/main/sarah.jpg?raw=true"  />
+  <img height="150" src="https://github.com/sarahwanyeki/sarahwanyeki/blob/main/sarah.jpg?raw=true"  />
 </div>
 
 ###
@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SarahPri.SarahPri&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarahwanyeki.sarahwanyeki&"  />
 </div>
 
 ###
