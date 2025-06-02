@@ -75,10 +75,17 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarahwanyeki&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=radial&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=sarahwanyeki&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahwanyeki&langs_count=8)
+  
 </div>
 
 ###
 
+<h3 align="left">🔥   Top Languages :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahwanyeki&langs_count=8"  />
+</div>
 
 ###
