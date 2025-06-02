@@ -42,7 +42,11 @@
 
 ###
 
-<p align="left">- 🔭 I am a Software Developer<br><br>- 📚 I create educational tutorials focusing on programming on YouTube & Tiktok.</p>
+<p align="left">- 🔭 I am a passionate full stack developer with experience in building robust web applications using modern technologies. I love solving real-world problems and delivering clean, scalable solutions.
+- 🔭 Currently working on: MERN stack projects, including food delivery and POS systems
+- 🌱 Currently learning: Advanced backend architectures, cloud deployment, and DevOps
+- 🤝 Open to collaborating on: Open source, e-commerce, and SaaS projects
+- 💬 Ask me about: React, Node.js, Django, REST APIs, MongoDB, PostgreSQL, and more!
 
 ###
 
